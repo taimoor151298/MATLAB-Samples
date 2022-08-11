@@ -1,6 +1,6 @@
 # Modelling of a Thermal Energy Storage using Schumann Model
 
-We model a packed bed thermal energy storage(TES) in MATLAB using a Schumman model. It is a one-dimensional model i.e. the temperature gradient along the radius of the packed bed is assumed to be constant and only temperature gradient along the lateral axis is considered. 
+We model a packed bed thermal energy storage (TES) in MATLAB using a Schumman model. It is a one-dimensional model i.e. the temperature gradient along the radius of the packed bed is assumed to be constant and only temperature gradient along the lateral axis is considered. 
 Schumann model consists of two equations, one for the solid storage material and one for the fluid flowing through the packed bed. The two equations are listed below:
 
 <p align="center">
